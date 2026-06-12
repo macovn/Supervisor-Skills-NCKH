@@ -29,3 +29,7 @@ Dự án này không phải là một prompt duy nhất để sinh ra bài báo,
 - Giai đoạn khởi động: Bạn có idea mơ hồ → Gọi idea-evaluator.
 - Giai đoạn viết lách: Bạn bí ý tưởng cho Introduction → Gọi intro-drafter.
 - Giai đoạn hoàn thiện: Bạn muốn tự review bài như một phản biện khó tính → Gọi pre-submission-reviewer.
+
+PROMPT CÀI ĐẶT:
+GitHub - HKUSTDial/Supervisor-Skills: 将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。 · GitHub
+https://github.com/HKUSTDial/Supervisor-Skills/tree/main
